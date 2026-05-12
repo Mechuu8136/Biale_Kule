@@ -1,2 +1,2 @@
-# Bia-e-kule
+# Białe kule
  EnergyCity: Monitoring Energii i OZE
